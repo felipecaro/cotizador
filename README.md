@@ -2,17 +2,27 @@
 
 Basic React app para cotizar un seguro por año y modelo
 
+
 ## Getting Started
+descargar node LTS recomendado
 
-Clona el proyecto, bajalo, y corre npm install 
+* [Node.Js](https://nodejs.org/) - mejor la version LTS
 
 
-### Installing
+### Instalando
 
-debes tener Node.js y NPM
+Debes tener Node.js y NPM
+
+Clona el proyecto, descargalo, y dentro de la carpeta del proyecto corre: 
 
 ```
-dentro de la carpeta del proyecto npm install para bajar lo necesario 
+npm install 
 ```
 
-Y npm start para correr el servidor
+para bajar lo necesario y para correr el servidor:
+
+```
+npm start  
+```
+
+have fun!
