@@ -19,7 +19,7 @@ Clona el proyecto, descargalo, y dentro de la carpeta del proyecto corre:
 npm install 
 ```
 
-para bajar lo necesario y para correr el servidor:
+para bajar lo necesario y correr el servidor:
 
 ```
 npm start  
